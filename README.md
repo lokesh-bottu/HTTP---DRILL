@@ -27,12 +27,21 @@ node server.js
 
 ### Check these links after running
 
+[http://localhost:3000/html](http://localhost:3000/html)
+
 [http://localhost:3000/json](http://localhost:3000/json)
 
 [http://localhost:3000/uuid](http://localhost:3000/uuid)
 
 [http://localhost:3000/status/100](http://localhost:3000/status/100)
 
+[http://localhost:3000/status/200](http://localhost:3000/status/200)
+
+[http://localhost:3000/status/300](http://localhost:3000/status/300)
+
+[http://localhost:3000/status/400](http://localhost:3000/status/400)
+
 [http://localhost:3000/status/500](http://localhost:3000/status/500)
 
 [http://localhost:3000/delay/3](http://localhost:3000/delay/3)
+
